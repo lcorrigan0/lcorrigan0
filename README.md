@@ -2,9 +2,9 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=lcorrigan0&label=Profile%20views&color=0e75b6&style=flat" alt="lcorrigan0" /> </p>
 <h3 align="center">A Senior Data Warehouse Developer for NHS</h3>
 <div align="center">
-🔭 I’m currently working on **various automation projects with NHS**<br><br>
-👯 I’m looking to collaborate on **any Python based projects**<br><br>
-📫 How to reach me **liam.corrigan.dev@gmail.com**<br>
+🔭 I’m currently working on <b>various automation projects with NHS</b><br><br>
+👯 I’m looking to collaborate on any <b>Python based projects</b><br><br>
+📫 How to reach me - <b>liam.corrigan.dev@gmail.com</b> or <b>liam.corrigan@nhs.net</b><br>
 </div><br>
 
 
